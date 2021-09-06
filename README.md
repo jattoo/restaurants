@@ -1,0 +1,1 @@
+A basic application that makes use of the google maps and places api to display restaurants around you.
